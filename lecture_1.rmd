@@ -1,0 +1,48 @@
+---
+title: "Lecture 1 - Basic Probability Theory"
+author: "Marco Jang"
+date: "07/16/2023"
+output: 
+    html_document:
+        keep_md: false
+        matjax: default
+        theme: yeti
+        highlight: textmate
+        toc: true
+---
+<style type="text/css">
+
+body{ 
+    font-size: 16px;
+    line-height: 1.7em;
+    <!-- text-align: justify; -->
+}
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 16px;
+    border: solid 1px;
+}
+
+h1 { font-size: 32px; }
+h2 { font-size: 24px; }
+h3 { font-size: 20px; }
+
+.nobullet li {
+  list-style-type: none;
+}
+</style>
+<br>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, 
+                      cache = FALSE,
+                      fig.align = "center",
+                      fig.width = 5,
+                      fig.height = 4)
+```
+
+# 1. Basic Probability Theory
+
+
